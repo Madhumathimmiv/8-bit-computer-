@@ -39,7 +39,7 @@ To build the 8-bit breadboard computer, you will need:
 - Documentation created using [Mathcha.io](https://www.mathcha.io/).
 - Special thanks to the open-source community for resources and inspiration.
 
-  ---
+---
 
 ## Related links
 
