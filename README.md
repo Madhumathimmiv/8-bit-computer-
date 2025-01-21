@@ -1,12 +1,14 @@
-**8 BIT BREADBOARD COMPUTER - MODULES**
 
-This documentation consists of the working details of each individual
-modules of an 8 bit breadboard computer. This computer is referenced
-from the works of *Ben Eater*<sup>\[1\]</sup>.       
+<h1>8 BIT BREADBOARD COMPUTER - MODULES</h1>
+<p align="justify">
+This documentation consists of the working details of each individual modules of an 8 bit breadboard computer. This computer is referenced from the works of <em>Ben Eater<sup>[1]</sup>.</em>       
+</p>
 
 **1. CLOCK MODULE**
 
 ![Clock module on breadboard](https://github.com/user-attachments/assets/e5261d2b-a029-42dc-880e-8bdbcec6b8b3)
+<p align="center"><strong>Figure 1:</strong> <em>Clock module on breadboard</em></p>
+
 
 The purpose of a clock in a computer is to synchronise the operations
 that takes place in the computer. The clock module of this computer is
@@ -36,6 +38,7 @@ if there is  a bouncing effect, it may skip a    few cycles which will
 affect the debugging process. So 555 timer is used as debouncer circuit
 for the pushbutton. Refer appendix A.2 for working of monostable
 multivibrator.
+
 ![Pushbutton working](https://github.com/user-attachments/assets/2e9611f8-55ed-4fff-8ec9-6098248c09c6)
 
 ![monostable clock pulse](https://github.com/user-attachments/assets/497a4bd1-21cb-4824-995b-8228477e604b)
@@ -66,3 +69,4 @@ pulse in case the clock needs to be halted.
 
 ![Clock module BOM](https://github.com/user-attachments/assets/62a1167c-b053-47c6-8a03-c14f05e76dda)
 
+<p align="justify">
