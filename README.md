@@ -1,4 +1,4 @@
-
+![ldskjf](https://www.mathcha.io/editor/oM5KOI1LFkXh89EqXoCv3zrmeHExLq31UoKomEG)
 <h1>8 BIT BREADBOARD COMPUTER - MODULES</h1>
 <p align="justify">
 This documentation consists of the working details of each individual modules of an 8 bit breadboard computer. This computer is referenced from the works of <em>Ben Eater<sup>[1]</sup>.</em>       
