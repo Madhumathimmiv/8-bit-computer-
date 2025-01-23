@@ -37,6 +37,7 @@ To build the 8-bit breadboard computer, you will need:
 
 - This project is referred from [Ben Eater](https://eater.net/).
 - Documentation created using [Mathcha.io](https://www.mathcha.io/).
+- This project was done in collaboration with [Shanmugapriya Arjunan](https://github.com/shanmugapriyaarjunan2005)
 - Special thanks to the open-source community for resources and inspiration.
 
 ---
@@ -44,5 +45,5 @@ To build the 8-bit breadboard computer, you will need:
 ## Related links
 
 - [Medium Article]()
-- [LinkedIn Profile]()
+- [LinkedIn Profile](https://www.linkedin.com/in/madhumathi-sridhar-31695a268/)
 - [Hackster.io Project]()
