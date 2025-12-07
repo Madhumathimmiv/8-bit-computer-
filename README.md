@@ -19,7 +19,7 @@ The documentation covers:
 ## Repository Contents
 
 This repository includes:
-- `/schematics/` - Circuit diagrams and images related to the project.
+- `/schematic/` - Circuit diagrams and images related to the project.
 - `README.md` - This file, containing an overview of the project.
 
 ---
